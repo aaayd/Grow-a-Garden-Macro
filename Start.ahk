@@ -6,7 +6,6 @@ KeyDelay := 40
 
 Setkeydelay KeyDelay
 
-
 GetRobloxClientPos()
 pToken := Gdip_Startup()
 bitmaps := Map()
